@@ -25,6 +25,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>eureka</name>
     <description>eureka</description>
+    <packaging>jar</packaging>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>2021.0.8</spring-cloud.version>
